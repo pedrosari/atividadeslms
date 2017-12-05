@@ -9,9 +9,8 @@
         fill: #262626;
       }
 
-      .cls-3, .cls-4 {
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
         fill: none;
-        stroke-miterlimit: 10;
         stroke-width: 2px;
       }
 
@@ -19,8 +18,33 @@
         stroke: #000;
       }
 
-      .cls-4 {
+      .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
         stroke: #262626;
+      }
+
+      .cls-5, .cls-6 {
+        stroke-linecap: square;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 1.69;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 1000 100;
+      }
+
+      .cls-7 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-9 {
+        stroke: #bfbfbf;
       }
     </style>
   </defs>
@@ -59,4 +83,43 @@
   <line class="cls-4" x1="22.199" y1="100.765" x2="22.199" y2="128.765"/>
   <line class="cls-4" x1="22.199" y1="164.765" x2="22.199" y2="192.765"/>
   <line class="cls-4" x1="22.199" y1="229.765" x2="22.199" y2="257.765"/>
+  <g>
+    <g>
+      <g>
+        <line class="cls-5" x1="10.791" y1="146.824" x2="12.481" y2="146.824"/>
+        <line class="cls-5" x1="15.016" y1="146.824" x2="16.706" y2="146.824"/>
+        <line class="cls-5" x1="19.241" y1="146.824" x2="20.932" y2="146.824"/>
+        <line class="cls-5" x1="23.467" y1="146.824" x2="25.157" y2="146.824"/>
+        <line class="cls-5" x1="27.692" y1="146.824" x2="29.382" y2="146.824"/>
+        <line class="cls-5" x1="31.917" y1="146.824" x2="33.608" y2="146.824"/>
+      </g>
+      <polyline class="cls-6" points="10.157 149.782 7.199 146.824 10.157 143.866"/>
+      <polyline class="cls-6" points="34.241 143.866 37.199 146.824 34.241 149.782"/>
+    </g>
+    <g>
+      <g>
+        <line class="cls-5" x1="22.199" y1="135.415" x2="22.199" y2="137.105"/>
+        <line class="cls-5" x1="22.199" y1="139.641" x2="22.199" y2="141.331"/>
+        <line class="cls-5" x1="22.199" y1="143.866" x2="22.199" y2="145.556"/>
+        <line class="cls-5" x1="22.199" y1="148.091" x2="22.199" y2="149.782"/>
+        <line class="cls-5" x1="22.199" y1="152.317" x2="22.199" y2="154.007"/>
+        <line class="cls-5" x1="22.199" y1="156.542" x2="22.199" y2="158.232"/>
+      </g>
+      <polyline class="cls-6" points="19.241 134.782 22.199 131.824 25.157 134.782"/>
+      <polyline class="cls-6" points="25.157 158.866 22.199 161.824 19.241 158.866"/>
+    </g>
+  </g>
+  <g>
+    <path id="path70-9-1-8" class="cls-7" d="M698.417,253.547l-7.558-7.389-4.891,4.616H681.32v-4.9H677.9l-5.523,5.149L677,251l-8,10.832" transform="translate(-660.801 -237.176)"/>
+    <path id="path98-9-7-2" class="cls-7" d="M681.316,255.532h3.494l2.262-2.262h3.264l3.637,3.637h1.947" transform="translate(-660.801 -237.176)"/>
+    <path id="path102-0-2-4" class="cls-7" d="M688.618,261.832l2.434-2.434h4.009" transform="translate(-660.801 -237.176)"/>
+  </g>
+  <g id="g5072">
+    <path id="path5053" class="cls-8" d="M673.523,436.547,693,460.71" transform="translate(-660.801 -237.176)"/>
+    <path id="path5053-0" class="cls-8" d="M673,460.852l19.477-24.163" transform="translate(-660.801 -237.176)"/>
+  </g>
+  <g>
+    <path id="path5076-4" class="cls-9" d="M694.574,503H672.153" transform="translate(-660.801 -237.176)"/>
+    <path id="path5076" class="cls-9" d="M683.369,503.011v22.421" transform="translate(-660.801 -237.176)"/>
+  </g>
 </svg>

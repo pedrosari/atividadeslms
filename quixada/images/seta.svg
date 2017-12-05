@@ -1,0 +1,23 @@
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43.199 37.412">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bfbfbf;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #262626;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>seta</title>
+  <g>
+    <g>
+      <polygon class="cls-1" points="11.377 36.411 1.155 18.706 11.377 1 31.822 1 42.045 18.706 31.822 36.411 11.377 36.411"/>
+      <path class="cls-1" d="M692.712,367.639l9.645,16.706-9.645,16.706h-19.29l-9.645-16.706,9.645-16.706h19.29m1.155-2h-21.6l-10.8,18.706,10.8,18.706h21.6l10.8-18.706-10.8-18.706Z" transform="translate(-661.467 -365.639)"/>
+    </g>
+    <path id="path5118" class="cls-2" d="M683.464,371.681v16.182h4.925l-5.28,9.144-5.366-9.294H680.3" transform="translate(-661.467 -365.639)"/>
+  </g>
+</svg>
