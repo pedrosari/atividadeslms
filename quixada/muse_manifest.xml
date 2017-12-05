@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pedrosari.github.io/atividadeslms/quixada" resolutions="1x" timestamp="1512023933461">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pedrosari.github.io/atividadeslms/teste" resolutions="1x" timestamp="1512481456802">
   <folder name="fonts">
     <file name="raleway.woff" crc="73875883"/>
     <file name="raleway-regular.eot" crc="3924367191"/>
@@ -9,8 +9,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="318806260" ref="index"/>
-    <file name="nomq_index.css" crc="147196064" ref="index"/>
+    <file name="index.css" crc="3821346414" ref="index"/>
+    <file name="nomq_index.css" crc="3893348543" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -28,13 +28,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="svg colado 294905x220_poster_.png" crc="94382877" ref="index"/>
     <file name="svg-colado-5355x296.svg" crc="153013824" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -44,13 +40,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="svg colado 436x299_poster_.png" crc="308263266" ref="index"/>
     <file name="svg-colado-434869x299.svg" crc="4173678886" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -60,35 +52,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="svg colado 825723x184_poster_.png" crc="3878654971" ref="index"/>
-    <file name="img_0812.jpg" crc="4201226148" ref="index">
+    <file name="img_0812.jpg" crc="158704568" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_0406.jpg" crc="4057357979" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="qxd selo preto 85.png" crc="4098795746" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pag1.svg" crc="3920641912" ref="index"/>
-    <file name="pag1_poster_u506.png" crc="4164896708" ref="index"/>
-    <file name="qxd selo preto 25.jpg" crc="95601617" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="qxd selo preto 85.png" crc="342602670" ref="index" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -96,20 +68,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pag2.svg" crc="4069767227" ref="index"/>
-    <file name="pag2_poster_u550.png" crc="176780920" ref="index"/>
-    <file name="pag3.svg" crc="4197350129" ref="index"/>
-    <file name="pag3_poster_u601.png" crc="346237270" ref="index"/>
-    <file name="original selo preto 25.jpg" crc="374046499" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="pag1.svg" crc="4221925623" ref="index"/>
+    <file name="pag2.svg" crc="189985381" ref="index"/>
+    <file name="pag3.svg" crc="4123807737" ref="index"/>
     <file name="svg-colado-842708x238.svg" crc="433787129" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -118,40 +80,136 @@
     <file name="img_0846.jpg" crc="248658706" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="original selo preto 85.jpg" crc="142990759" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="img_0956.jpg" crc="90411681" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_0455.jpg" crc="25323374" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pag4.svg" crc="3840178284" ref="index"/>
-    <file name="pag4_poster_u1155.png" crc="3925259058" ref="index"/>
-    <file name="pag5.svg" crc="333777307" ref="index"/>
-    <file name="pag5_poster_u1142.png" crc="86342393" ref="index"/>
-    <file name="img_0846-u209-fr.jpg" crc="197727964" ref="index"/>
-    <file name="img_0956-u1036-fr.jpg" crc="3835878666" ref="index"/>
-    <file name="img_0812-u488-fr.jpg" crc="405622147" ref="index"/>
-    <file name="img_0406-u172-fr.jpg" crc="51012801" ref="index"/>
-    <file name="img_0455-u1101-fr.jpg" crc="43767146" ref="index"/>
-    <file name="img_0812-u488-fr2.jpg" crc="503037000" ref="index"/>
-    <file name="img_0406-u172-fr2.jpg" crc="114854166" ref="index"/>
-    <file name="img_0455-u1101-fr2.jpg" crc="317063536" ref="index"/>
-    <file name="img_0846-u209-fr2.jpg" crc="286735268" ref="index"/>
-    <file name="img_0956-u1036-fr2.jpg" crc="3905937136" ref="index"/>
-    <file name="img_0812-u488-fr3.jpg" crc="4257288300" ref="index"/>
-    <file name="img_0406-u172-fr3.jpg" crc="4274984637" ref="index"/>
-    <file name="img_0455-u1101-fr3.jpg" crc="4218476568" ref="index"/>
-    <file name="img_0846-u209-fr3.jpg" crc="32528554" ref="index"/>
-    <file name="img_0956-u1036-fr3.jpg" crc="331894593" ref="index"/>
-    <file name="img_0846-u209-fr4.jpg" crc="4135883419" ref="index"/>
+    <file name="pag4.svg" crc="196990417" ref="index"/>
+    <file name="pag5.svg" crc="359916374" ref="index"/>
+    <file name="img_0846-u209-fr.jpg" crc="465780634" ref="index"/>
+    <file name="img_0956-u1036-fr.jpg" crc="4046418750" ref="index"/>
+    <file name="img_0812-u488-fr.jpg" crc="3919519049" ref="index"/>
+    <file name="img_0406-u172-fr.jpg" crc="3775594574" ref="index"/>
+    <file name="img_0455-u1101-fr.jpg" crc="430546656" ref="index"/>
+    <file name="img_0406-u172-fr2.jpg" crc="3795190227" ref="index"/>
+    <file name="img_0455-u1101-fr2.jpg" crc="3845593612" ref="index"/>
+    <file name="img_0846-u209-fr2.jpg" crc="495810874" ref="index"/>
+    <file name="img_0956-u1036-fr2.jpg" crc="3769169097" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="original selo preto 25.png" crc="4185144746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="seta.svg" crc="4210802093" ref="index"/>
+    <file name="seta_poster_u4859.png" crc="3851672622" ref="index"/>
+    <file name="original selo preto 85.png" crc="3823191386" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="qxd selo preto 25.png" crc="3990525213" ref="index" seo="true">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="degrade.png" crc="3830635118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="degrade2.jpg" crc="227591786" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="codigo branco.svg" crc="3779725960" ref="index"/>
+    <file name="codigo branco_poster_u5540.png" crc="3907608252" ref="index"/>
+    <file name="codigo branco hover.svg" crc="4254739487" ref="index"/>
+    <file name="codigo branco hover_poster_u5591.png" crc="3869887363" ref="index"/>
+    <file name="codigo branco clicado.svg" crc="334685978" ref="index"/>
+    <file name="codigo branco clicado_poster_u6911.png" crc="3826105263" ref="index"/>
+    <file name="codigo preto.svg" crc="4081524259" ref="index"/>
+    <file name="codigo preto_poster_u7584.png" crc="4265931901" ref="index"/>
+    <file name="codigo preto hover.svg" crc="4164362141" ref="index"/>
+    <file name="codigo preto hover_poster_u7591.png" crc="3911737605" ref="index"/>
+    <file name="codigo preto clicado.svg" crc="4077851655" ref="index"/>
+    <file name="codigo preto clicado_poster_u7598.png" crc="4040205835" ref="index"/>
+    <file name="margem (1).png" crc="396391065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tamanho minimo opção 1 (1).png" crc="3836885880" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tamanho minimo opção 2 (1).png" crc="420335771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.png" crc="5863906" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.png" crc="3905247505" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="361172789" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="82889563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.png" crc="268880771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.png" crc="4111925662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pag1_poster_u4694.png" crc="295194892" ref="index"/>
+    <file name="pag2_poster_u4793.png" crc="383698418" ref="index"/>
+    <file name="pag3_poster_u4749.png" crc="4284780185" ref="index"/>
+    <file name="pag4_poster_u4800.png" crc="4080581972" ref="index"/>
+    <file name="pag5_poster_u4756.png" crc="3925155380" ref="index"/>
+    <file name="degrade2340x116.jpg" crc="3999620465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="margem (1)161x184.png" crc="24800541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tamanho minimo opção 1 (1)160x148.png" crc="234219175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="qxd selo preto 25-u385-fr.png" crc="4119289334" ref="index"/>
+    <file name="qxd selo preto 85-u11727-fr.png" crc="147980076" ref="index"/>
+    <file name="degrade2251x85.jpg" crc="61493130" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="margem (1)108x124.png" crc="2675451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tamanho minimo opção 1 (1)165x153.png" crc="3955113293" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0812-u488-fr2.jpg" crc="379230930" ref="index"/>
+    <file name="qxd selo preto 85-u11727-fr2.png" crc="4042613906" ref="index"/>
+    <file name="qxd selo preto 25-u385-fr2.png" crc="272189387" ref="index"/>
+    <file name="qxd selo preto 85-u595-fr.png" crc="3856028100" ref="index"/>
   </folder>
-  <file name="index.html" crc="510215881" seo="true" mt="1512023795995" redirect="true"/>
+  <file name="index.html" crc="287925005" seo="true" mt="1512480882802" redirect="true"/>
 </manifest>
